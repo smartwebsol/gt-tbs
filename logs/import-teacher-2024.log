@@ -1,0 +1,184 @@
+29-11-2024 08:44:26 : IMPORT START   
+  ===========================================================
+  
+  Import File: D:/projects/SW/gt_tbs/cron/data-sync/Data - 2024-11-26/teachers.csv
+    
+  ===========================================================  
+  
+29-11-2024 08:47:03 : IMPORT START   
+  ===========================================================
+  
+  Import File: D:/projects/SW/gt_tbs/cron/data-sync/Data - 2024-11-26/teachers.csv
+    
+  ===========================================================  
+  
+29-11-2024 08:50:47 : IMPORT START   
+  ===========================================================
+  
+  Import File: D:/projects/SW/gt_tbs/cron/data-sync/Data - 2024-11-26/teacherData.csv
+    
+  ===========================================================  
+  
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  j.pal@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  sanjay.rana@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  n.dass@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  k.agarwal@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  r.prasad@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  a.ghose@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  a.mudholkar@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  pallavi.arora@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  h.guha@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  r.john@british-school.org
+29-11-2024 08:50:47 : IMPORT - Teacher - processing -  p.mehta@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  s.adams@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  n.beriwal@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  meher.agarwal@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  r.gandhi@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  n.sihota@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  v.mehta@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  salini.nair@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  n.parihar@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  a.prasad@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  s.sam@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  m.bahl@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  m.halder@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  k.nirula@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  neha.sharma@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  n.gosain@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  k.joshi@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  b.gill@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  k.mehta@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  anoushka.mehta@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  r.saigal@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  neha@british-school.org
+29-11-2024 08:50:48 : IMPORT - Teacher - processing -  r.guliani@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  j.wilson@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  r.sreekumar@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  a.choudhary@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  s.belwal@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  m.arora@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  s.bhattacharjee@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  devlina.singh@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  a.jaitly@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  n.mongia@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  n.coventry@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  nc2@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  nc1@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  c.malik@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  a.biswas@british-school.org
+29-11-2024 08:50:49 : IMPORT - Teacher - processing -  n.rawat@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  i.nagpal@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  s.hasija@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  m.bhardwaj@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  a.lal@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  r.venkatesh@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  m.taneja@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  k.michael@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  v.ohri@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  a.bhagi@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  d.biswas@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  sarla.pandey@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  pooja.bhatia@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  l.bartley@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  m.sharan@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  a.parameshwar@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  a.kumari@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  tanuka.chakraverty@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  n.nanda@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  c.salcedo@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  s.cherian@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  akanksha.kumari@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  m.subzposh@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  s.baranwal@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  m.singh@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  a.mahapatra@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  deborah.singh@british-school.org
+29-11-2024 08:50:50 : IMPORT - Teacher - processing -  m.gandotra@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  d.singh@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  shivani.singh@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  g.dickens@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  t.john@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  a.naithani@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  sweta.saha@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  r.sebastian@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  sujata.singh@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  n.sharma@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  s.chakrabarti@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  m.gomes@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  p.ghose@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  i.mathur@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  vanita.singh@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  t.porichha@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  aishwaryaa.mehta@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  nc4@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  a.gandotra@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  sonakshi.singh@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  w.jacob@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  k.bansal@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  p.sisodia@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  t.tokas@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  a.sohal@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  j.debnath@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  j.joy@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  m.bhagwani@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  s.radashkevich@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  n.dhamani@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  s.roy@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  priyamvada.das@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  v.pathak@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  a.daniel@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  g.sikka@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  ruchika.kapoor@british-school.org
+29-11-2024 08:50:51 : IMPORT - Teacher - processing -  v.bhalla@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  d.gomes@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  i.kazmi@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  v.aggarwal@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  b.atieno@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  a.sood@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  p.mishra@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  a.chawla@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  s.mary@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  p.balayan@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  j.biswas@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  nc3@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  swati.pasricha@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  p.khatri@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  chitra@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  l.ganguly@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  u.bhanja@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  s.ganju@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  k.arora@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  naman.kaur@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  aditi.gandhi@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  k.das@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  a.dean@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  sonica.puri@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  nafisa.gilkes@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  d.sen@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  m.mansingh@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  shweta.jha@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  mayuri.mehrotra@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  shradha.bhatia@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  e.dsouza@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  v.bagri@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  arushi.mehta@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  s.bagai@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  p.kataria@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  k.singh@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  b.grover@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  p.mehrotra@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  p.das@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  sandika.sehgal@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  s.sangal@british-school.org
+29-11-2024 08:50:52 : IMPORT - Teacher - processing -  a.marla@british-school.org
+29-11-2024 08:50:52 : IMPORT DONE -  
+  ============================================================
+  IMPORT FINISH
+
+  
+      Added: 32, 
+      Found: 0, 
+      Updated: 120, 
+      Deleted: 0
+  ============================================================
+  

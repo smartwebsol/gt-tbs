@@ -1,0 +1,256 @@
+{
+  "siteTitle": "BRITISH SCHOOL",
+  "header":{
+    "heading":{
+      "beforeLogin" : "Gifted and Talented Identification",
+      "afterLogin"  : "Gifted and Talented Identification"
+    },
+    "menus": {
+      "home": "Home",
+      "step1form": "Step 1 Form",
+      "step1list": "Step 1 List",
+      "logout": "Logout",
+      "step2form": "Step 2 Form",
+      "step2list": "Step 2 List",
+      "step3": "Step 3",      
+      "settings": "Settings"
+    }
+  },
+  "login": {
+    "heading": "Login",
+    "username": "Username",
+    "password": "Password",
+    "btnSubmit": "Login",
+    "wait": "Logging in, please wait..",
+    "onSubmit": {
+      "unreachable": "Server inaccessible!",
+      "nouser": "No such user found!",
+      "invalid": "Invalid username/password!",
+      "nouserindb": "User not found with us!",
+      "success": "You are logged in into Teacher's secured area",
+      "success-coord": "You are logged in into Coordinator's secured area"
+    }
+  },
+  "teacherDashboard":{
+    "profileBox":{
+      "heading" : "My Profile",
+      "grades"  : "Grades ",
+      "subjects": "Subjects: ",
+      "students": "Students: "
+    },
+    "step1Box": {
+      "heading": "G & T Identification Step 1",
+      "btnText": "Step 1",
+      "btnComplete": "Step 1 Complete",
+      "step1CompleteSubmit": "Step 1 Results has been saved successfully.",
+      "completed": "Step 1 Completed!"
+    },
+    "step2Box": {
+      "heading": "G & T Identification Step 2",
+      "btnText": "Step 2",
+      "btnComplete": "Step 2 Complete",
+      "step1CompleteSubmit": "Step 2 Results has been saved successfully.",
+      "completed": "Step 2 Completed!"
+    },
+    "coordinatorBox": {
+      "heading": "Site Statistics",
+      "stats1": "Teacher's On-Board",
+      "stats2": "Total Grades",
+      "stats3": "Total Subjects",
+      "stats4": "Total Students",      
+      "stats5": "Step1 Forms filled so far",
+      "stats6": "Step1 Results declared so far",
+      "stats7": "Step2 Form filled so far"
+    }
+  },
+  "step1": {    
+
+    "form":{
+      "heading": "G & T Identification Step 1 Form",
+      "teacher": "Teacher:",
+      "grade": "Class/Grade:",
+      "subject": "Subject:",
+      "year": "Academic Year:",
+      "btnSearch": "Search",
+      "dialog": {
+        "text": "You have already filled Step 1 form for this!!<br />What would you like to do..",
+        "result":"View Results",
+        "edit": "Edit again",
+        "search": "Select again"
+      },
+      "btnSave": "Save",
+      "btnSubmit": "Submit",
+      "btnCancel": "Cancel",
+      "btnAdd": "Add",
+      "subjectFetch": "Fetching subjects..",      
+      "errors":{
+        "noGrade": "Error: Please select Grade!",
+        "noSubject": "Error: Please select Subject!",
+        "noYear": "Error: Please select Year!"
+      },
+      "searchText": "Loading details, please wait.. ",
+      "note": "Selecting same student multiple times for the same question, will be saved once.",
+      "onSubmit": {
+        "preSubmit": "You are going to submit Step 1!\nOnce submit, you will not be able to edit anything further in this form.\nContinue...",
+        "success" : "G & T Step 1 data has been saved successfully",
+        "error" : "Error saving G & T Step 1 data",
+        "invalid": "Invalid Access"
+      }
+    },    
+
+    "list": {
+      "heading": "List of G & T Identification Step 1",
+      "search": {
+        "grade": "Grade: ",
+        "subject": "Subject: ",
+        "year": "Year: "
+      },
+      "grid": {
+        "noresult": "No records found!",
+        "col1": "Sl.",
+        "col2": "Grade",
+        "col3": "Subject",
+        "col4": "Year",
+        "col5": "Posted By",
+        "col6": "Posted On",
+        "result": "View Results",
+        "edit": "Edit"
+      }
+    },
+
+    "result": {
+      "heading": "G & T Identification Step 1 Results",
+      "teacher": "Teacher: ",
+      "grade": "Class/Grade: ",
+      "subject": "Subject: ",
+      "year": "Academic Year: ",
+      "subheading1" : "Step 2 Qualifiers",
+      "note": "* Students in top %d occurances will qualify for Step 2.",
+      "grid": {
+        "noresult": "No one qualified for Step 2!",
+        "col1": "Sl.",
+        "col2": "Student",
+        "col3": "Occurrence"
+      },
+      "subheading2" : "G & T Filled Form"
+    }
+  },
+  "step2": {    
+
+    "form":{
+      "heading": "G & T Identification Step 2 Form",
+      "teacher": "Teacher:",
+      "student": "Student:",
+      "date": "Date:",      
+      "grade": "Grade & Subject:",
+      "btnSearch": "Fill Step 2",
+      "btnSubmit": "Save",
+      "btnCancel": "Cancel",      
+      "grid":{
+        "heading": "The Gifted Rating Scale",
+        "col1": "Sl No.",
+        "col2": "Question"
+      },
+
+      "errors":{
+        "noStudent": "Error: Please select Student!"
+      },
+      "searchText": "Loading details, please wait.. ",      
+      "onSubmit": {
+        "success" : "G & T Step 2 data has been saved successfully",
+        "s3-success": "Student Step3 status updated",
+        "error" : "Error saving G & T Step 2 data",
+        "invalid": "Invalid Access"
+      }
+    },    
+
+    "list": {
+      "heading": "List of G & T Identification Step 2",
+      "grid": {
+        "noresult": "No records found!",
+        "col1": "Sl.",
+        "col2": "Student",
+        "col3": "Grade",
+        "col4": "Subject",
+        "col5": "Year",
+        "col6": "Result",
+        "col7": "Posted By",
+        "col8": "Posted On",
+        "result": "Result",
+        "edit": "Edit",
+        "step3-0": "Qualify",
+        "step3-1": "Dis-Qualify"
+      },
+      "search": {
+        "grade": "Grade: ",
+        "subject": "Subject: ",
+        "year": "Year: "
+      }
+    },
+
+    "result": {
+      "heading": "G & T Identification Step 2 Results",
+      "student": "Student: ",
+      "teacher": "Teacher: ",
+      "grade": "Grade & Subject: ",      
+      "year": "Academic Year: ",
+      "score": "Score:   ",
+      "subheading1" : "Step 2 Individual Score",
+      "note": "* This is an individual assessment and will lead to Step 3 on comparing with other Step 2 performers.",
+      "grid": {        
+        "col1": "Sl.",
+        "col2": "Question",
+        "col3": "Assessment"
+      },
+      "subheading2" : "Step 2 Filled Form"
+    }
+  },
+  "step3": {
+    "heading": "Step 3 Score card",
+    "labelImport": "Import score: ",
+    "templatecsv": "Template ",
+    "submit-import": "Import",
+    "grid": {
+      "noresult": "No student has been marked qualified from step 3 list!",
+      "col1": "Sl.",
+      "col2": "Student",
+      "col3": "Grade",
+      "col4": "Subject",
+      "col5": "Year",
+      "col6": "Exam Type",
+      "col7": "Score",
+      "save": "Save Scores",
+      "onsuccess": "Score saved successfully!"
+    },
+    "search": {
+      "grade": "Grade: ",
+      "subject": "Subject: ",
+      "year": "Year: ",
+      "exam": "Exam Type: "
+    }    
+  },
+  "settings": {
+    "heading": "Site Settings",
+    "step1Editable": "Step 1 editable after filling firstly upto (days):",
+    "step1Result": "Step 1 - Top occurrences which will qualify: ",
+    "step1Display": "Step 1 - Display in results page till occurences: ",
+    "step2Editable": "Step 2 editable after filling firstly upto (days):",
+    "submit": "Save",
+    "success": "Settings saved successfully!",
+    "error" : "Nothing saved!"
+  },
+  "stats": {
+    "students": "Total Registered Students",
+    "step1": "selected on Step1",
+    "step1res": "Qualified for Step2",
+    "step2": "Selected for Step2",
+    "tab1": "Students Stats",
+    "tab2": "Step3 Exam Stats",
+    "tab3": "Step3 Score Stats",
+    "step3": "Scored in Step3",
+    "step3chem": "CHEM Scored",
+    "step3midyis": "MIDYIS Scored",
+    "step3gl": "GL Scored",
+    "step3elis": "ELIS Scored"    
+  }
+}

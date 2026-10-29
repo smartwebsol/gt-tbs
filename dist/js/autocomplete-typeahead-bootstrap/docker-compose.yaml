@@ -1,0 +1,20 @@
+version: '2'
+services:
+  tools:
+    build: .
+    ports:
+     - 9000:3000
+     - 3001:3001
+    volumes:
+     - ./src:/workspace/src
+     - ./dist:/workspace/dist
+     - ./docs:/workspace/docs
+  docs:
+    build:
+      context: .
+      dockerfile: Dockerfile.docs
+    ports:
+     - "9999:9999"
+    volumes:
+     - ./docs:/workspace/docs
+     - ./src:/workspace/src
